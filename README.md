@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jabezng2&theme=radical&show_icons=true" />
  </div>
  
  ###
