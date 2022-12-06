@@ -9,5 +9,5 @@
  ###
  
  <div align="center">
-  <img src="https://raw.githubusercontent.com/jabezng2/jabezng2/output/snake.svg" alt="snek-animation" />
+  
  </div>
