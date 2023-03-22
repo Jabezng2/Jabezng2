@@ -2,10 +2,12 @@
 
 ###
 
-<div>
-  <img width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=Jabezng2&theme=radical&show_icons=true" />
-  <img width="500" height="400" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/typing.gif" />
- </div>
+<table>
+  <tr>
+  <td><img width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=Jabezng2&theme=radical&show_icons=true" /></td>
+  <td><img width="500" height="400" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/typing.gif" /></td>
+  </tr>
+</table>
  
 ###
 
