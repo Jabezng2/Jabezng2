@@ -9,7 +9,7 @@
 ###
 
 <h1 align="left">:computer: Technologies I've Worked With:</h1>
-<h2 align="left">Frontend Development</h2>
+<h2 align="left">Programming Languages</h2>
 <div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
