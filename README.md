@@ -10,7 +10,7 @@
 </table>
  
 ###
-
+![](https://komarev.com/ghpvc/?username=jabezng2)
 <h1 align="left">:computer: Technologies I've Worked With:</h1>
 <h2 align="left">Programming Languages</h2>
 <div>
